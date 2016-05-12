@@ -107,7 +107,7 @@ Since unnecessary white space is ignored, putting a comma at the end of an entry
 
 ## Impact on existing code
 
-This will have no impact on existing code, as delineating literals and parenthetical expressions by commas and line breaks will still be allowed. Developers may freely and voluntarily eliminate commas from their multi-line arrays, or may choose to leave them as they currently are. If choosing to remove them should consist of a simple find and replace.
+This will have no impact on existing code, as delineating literals and parenthetical expressions by commas and line breaks will still be allowed. Developers may freely and voluntarily eliminate commas from their multi-line arrays, or may choose to leave them as they currently are. Choosing to remove them should consist of a simple find and replace.
 
 ## Alternatives considered
 

@@ -128,11 +128,3 @@ let friendlyList =
 ```
 
 But this is very ugly.
-
--------------------------------------------------------------------------------
-
-# Rationale
-
-On [Date], the core team decided to **(TBD)** this proposal.
-When the core team makes a decision regarding this proposal,
-their rationale for the decision will be written here.

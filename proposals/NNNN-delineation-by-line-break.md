@@ -86,7 +86,7 @@ injuredPerson.drive(
 )
 ```
 
-If this is added for all comma separated lists, which would be good from a consistency standpoint, then generic parameterization would be included too, though multi-line expressions for these are very uncommon:
+If this is added for all comma separated lists, which would be good from a consistency standpoint, then generic parameterization would be included too, though multi-line expressions for these are very uncommon (to my knowledge):
 
 ```swift
 let strangeEmptyDictionary = Dictionary<

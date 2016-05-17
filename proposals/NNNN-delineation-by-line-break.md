@@ -76,7 +76,7 @@ let secretCode = (
 )
 ```
 
-And function calls look like this:
+And function calls (if you choose to use the syntax) look like this:
 
 ```swift
 injuredPerson.drive(
